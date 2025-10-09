@@ -1,0 +1,6 @@
+ $ python3 bmi_calculator.py
+BMI Calculator
+Enter your weight in kilograms: 80
+Enter your height in meters: 1.5
+Your BMI is: 35.56
+Category: Obesity
