@@ -11,6 +11,7 @@ Features
 Python 3.10+, JacLang, Streamlit, OpenAI account & API key
 3. Project Structure
 
+
 CodebaseGenius/
 ├── frontend/
 │   └── app.py          # Streamlit UI
@@ -136,4 +137,7 @@ streamlit run app.py
 - Python venv: https://docs.python.org/3/tutorial/venv.html
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c2710a5c (Add Code Base Genius project folder)

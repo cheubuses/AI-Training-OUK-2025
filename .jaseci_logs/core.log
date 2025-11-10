@@ -1,0 +1,36 @@
+2025-11-09 10:08:30,015 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 10:08:49,104 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 10:09:38,643 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 10:26:15,531 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 10:27:24,873 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 10:28:16,185 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 10:30:47,110 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 10:32:01,534 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 10:32:12,332 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 10:32:51,872 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 10:36:07,352 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 11:53:55,131 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 11:53:55,151 - ERROR - interface_error: Internal Exception: [Errno 2] No such file or directory: 'app.py'
+2025-11-09 11:54:15,413 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 11:54:15,426 - ERROR - interface_error: Internal Exception: [Errno 2] No such file or directory: 'code_analyzer.jac'
+2025-11-09 11:58:30,344 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 11:58:30,354 - ERROR - interface_error: Internal Exception: [Errno 2] No such file or directory: 'main.jac'
+2025-11-09 11:58:54,079 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2025-11-09 11:58:54,096 - ERROR - interface_error: Internal Exception: [Errno 2] No such file or directory: 'doc_genie.jac'
+2025-11-09 12:00:35,839 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
